@@ -1,0 +1,49 @@
+{
+"courses": [
+{
+"id": 1,
+"title": "Introduction to Web Development",
+"instructor": "Dr. Sarah Miller",
+"category": "Computer Science",
+"credits": 4,
+"isElective": false,
+"description": "Learn HTML, CSS, and basic JavaScript."
+},
+{
+"id": 2,
+"title": "Advanced Node.js",
+"instructor": "John Doe",
+"category": "Computer Science",
+"credits": 3,
+"isElective": true,
+"description": "Deep dive into events, streams, and performance."
+},
+{
+"id": 3,
+"title": "Digital Marketing 101",
+"instructor": "Alice Wright",
+"category": "Business",
+"credits": 2,
+"isElective": true,
+"description": "Social media strategies and SEO basics."
+},
+{
+"id": 4,
+"title": "Modern Art History",
+"instructor": "Prof. Robert Blake",
+"category": "Arts",
+"credits": 3,
+"isElective": false,
+"description": "Exploration of art movements from the 20th century."
+},
+{
+"id": 5,
+"title": "Database Management Systems",
+"instructor": "Dr. Sarah Miller",
+"category": "Computer Science",
+"credits": 4,
+"isElective": false,
+"description": "SQL, NoSQL, and database design principles."
+}
+]
+}
